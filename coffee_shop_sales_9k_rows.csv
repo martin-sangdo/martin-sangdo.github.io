@@ -9049,3 +9049,125 @@ transaction_id,transaction_date,transaction_time,transaction_qty,store_id,store_
 148923,2025-06-30,10:27:02,2,8,Hell's Kitchen,44,2.5,Tea,Brewed herbal tea,Peppermint Rg,5
 149028,2025-06-30,11:10:02,2,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg,6
 148469,2025-06-30,7:35:43,2,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg,6
+148458,2025-07-01,7:27:17,1,8,Hell's Kitchen,75,3.5,Bakery,Pastry,Croissant,3.5
+148448,2025-07-02,7:23:05,1,5,Lower Manhattan,76,3.5,Bakery,Biscotti,Chocolate Chip Biscotti,3.5
+148706,2025-07-03,9:12:13,1,8,Hell's Kitchen,87,2.1,Coffee,Barista Espresso,Ouro Brasileiro shot,2.1
+148813,2025-07-04,9:51:03,2,8,Hell's Kitchen,37,3,Coffee,Barista Espresso,Espresso shot,6
+148943,2025-07-05,10:32:16,1,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg,3
+148413,2025-07-06,7:05:53,2,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg,6
+148609,2025-07-07,8:32:08,1,8,Hell's Kitchen,33,3.5,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5
+148518,2025-07-08,8:02:57,1,5,Lower Manhattan,74,3.5,Bakery,Biscotti,Ginger Biscotti,3.5
+149119,2025-07-09,12:57:57,1,8,Hell's Kitchen,54,2.5,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5
+148855,2025-07-10,10:08:35,1,5,Lower Manhattan,71,3.75,Bakery,Pastry,Chocolate Croissant,3.75
+148652,2025-07-11,8:48:11,1,3,Astoria,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45
+148868,2025-07-12,10:12:23,1,8,Hell's Kitchen,78,4.5,Bakery,Scone,Scottish Cream Scone ,4.5
+148418,2025-07-13,7:08:36,2,8,Hell's Kitchen,23,2.5,Coffee,Drip coffee,Our Old Time Diner Blend Rg,5
+149389,2025-07-14,18:30:05,2,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,8
+148756,2025-07-15,9:29:39,2,3,Astoria,31,2.2,Coffee,Gourmet brewed coffee,Ethiopia Sm,4.4
+149234,2025-07-16,15:21:45,1,8,Hell's Kitchen,54,2.5,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5
+148934,2025-07-17,10:30:57,1,8,Hell's Kitchen,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5
+148536,2025-07-18,8:12:51,3,5,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,7.65
+149058,2025-07-19,11:24:35,1,8,Hell's Kitchen,71,3.75,Bakery,Pastry,Chocolate Croissant,3.75
+148923,2025-07-20,10:27:02,2,8,Hell's Kitchen,44,2.5,Tea,Brewed herbal tea,Peppermint Rg,5
+149028,2025-07-21,11:10:02,2,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg,6
+148469,2025-07-22,7:35:43,2,3,Astoria,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg,6
+148470,2025-07-23,7:36:52,1,8,Hell's Kitchen,37,3,Coffee,Barista Espresso,Espresso shot,3
+148471,2025-07-24,7:38:15,2,5,Lower Manhattan,63,0.8,Flavours,Regular syrup,Carmel syrup,1.6
+148472,2025-07-25,7:40:28,1,3,Astoria,42,2.5,Tea,Brewed herbal tea,Lemon Grass Rg,2.5
+148473,2025-07-26,7:42:41,2,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg,6
+148474,2025-07-27,7:45:03,1,5,Lower Manhattan,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3
+148475,2025-07-28,7:47:26,1,3,Astoria,84,0.8,Flavours,Regular syrup,Chocolate syrup,0.8
+148476,2025-07-29,7:49:49,2,8,Hell's Kitchen,29,2.5,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,5
+148477,2025-07-30,7:52:12,1,5,Lower Manhattan,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot,3
+148478,2025-07-31,7:54:35,1,3,Astoria,70,3.25,Bakery,Scone,Cranberry Scone,3.25
+148479,2025-07-01,7:56:58,2,8,Hell's Kitchen,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,9.5
+148480,2025-07-02,7:59:21,1,5,Lower Manhattan,72,3.25,Bakery,Scone,Ginger Scone,3.25
+148481,2025-07-03,8:01:44,1,3,Astoria,29,2.5,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5
+148482,2025-07-04,8:04:07,2,8,Hell's Kitchen,20,7.6,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,15.2
+148483,2025-07-05,8:06:30,1,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot,3
+148484,2025-07-06,8:08:53,1,3,Astoria,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55
+148485,2025-07-07,8:11:16,2,8,Hell's Kitchen,48,2.5,Tea,Brewed Black tea,English Breakfast Rg,5
+148486,2025-07-08,8:13:39,1,5,Lower Manhattan,51,3,Tea,Brewed Black tea,Earl Grey Lg,3
+148487,2025-07-09,8:16:02,1,3,Astoria,2,18,Coffee beans,House blend Beans,Our Old Time Diner Blend,18
+148488,2025-07-10,8:18:25,2,8,Hell's Kitchen,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,8.5
+148489,2025-07-11,8:20:48,1,5,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55
+148490,2025-07-12,8:23:11,1,3,Astoria,75,3.5,Bakery,Pastry,Croissant,3.5
+148491,2025-07-13,8:25:34,2,8,Hell's Kitchen,76,3.5,Bakery,Biscotti,Chocolate Chip Biscotti,7
+148492,2025-07-14,8:27:57,1,5,Lower Manhattan,87,2.1,Coffee,Barista Espresso,Ouro Brasileiro shot,2.1
+148493,2025-07-15,8:30:20,1,3,Astoria,37,3,Coffee,Barista Espresso,Espresso shot,3
+148494,2025-07-16,8:32:43,2,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg,6
+148495,2025-07-17,8:35:06,1,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg,3
+148496,2025-07-18,8:37:29,1,3,Astoria,33,3.5,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5
+148497,2025-07-19,8:39:52,2,8,Hell's Kitchen,74,3.5,Bakery,Biscotti,Ginger Biscotti,7
+148498,2025-07-20,8:42:15,1,5,Lower Manhattan,54,2.5,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5
+148499,2025-07-21,8:44:38,1,3,Astoria,71,3.75,Bakery,Pastry,Chocolate Croissant,3.75
+148500,2025-07-22,8:47:01,2,8,Hell's Kitchen,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,4.9
+148501,2025-07-23,8:49:24,1,5,Lower Manhattan,78,4.5,Bakery,Scone,Scottish Cream Scone,4.5
+148502,2025-07-24,8:51:47,1,3,Astoria,23,2.5,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5
+148503,2025-07-25,8:54:10,2,8,Hell's Kitchen,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,8
+148504,2025-07-26,8:56:33,1,5,Lower Manhattan,31,2.2,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2
+148505,2025-07-27,8:58:56,1,3,Astoria,54,2.5,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5
+148506,2025-07-28,9:01:19,2,8,Hell's Kitchen,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,9
+148507,2025-07-29,9:03:42,1,5,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55
+148508,2025-07-30,9:06:05,1,3,Astoria,71,3.75,Bakery,Pastry,Chocolate Croissant,3.75
+148509,2025-07-31,9:08:28,2,8,Hell's Kitchen,44,2.5,Tea,Brewed herbal tea,Peppermint Rg,5
+148510,2025-07-01,9:10:51,1,5,Lower Manhattan,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3
+148511,2025-07-02,9:13:14,1,3,Astoria,42,2.5,Tea,Brewed herbal tea,Lemon Grass Rg,2.5
+148512,2025-07-03,9:15:37,2,8,Hell's Kitchen,63,0.8,Flavours,Regular syrup,Carmel syrup,1.6
+148513,2025-07-04,9:18:00,1,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot,3
+148514,2025-07-05,9:20:23,1,3,Astoria,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3
+148515,2025-07-06,9:22:46,2,8,Hell's Kitchen,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,6
+148516,2025-07-07,9:25:09,1,5,Lower Manhattan,84,0.8,Flavours,Regular syrup,Chocolate syrup,0.8
+148517,2025-07-08,9:27:32,1,3,Astoria,29,2.5,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5
+148518,2025-07-09,9:29:55,2,8,Hell's Kitchen,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot,6
+148519,2025-07-10,9:32:18,1,5,Lower Manhattan,70,3.25,Bakery,Scone,Cranberry Scone,3.25
+148520,2025-07-11,9:34:41,1,3,Astoria,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75
+148521,2025-07-12,9:37:04,2,8,Hell's Kitchen,72,3.25,Bakery,Scone,Ginger Scone,6.5
+148522,2025-07-13,9:39:27,1,5,Lower Manhattan,29,2.5,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5
+148523,2025-07-14,9:41:50,1,3,Astoria,20,7.6,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,7.6
+148524,2025-07-15,9:44:13,2,8,Hell's Kitchen,37,3,Coffee,Barista Espresso,Espresso shot,6
+148525,2025-07-16,9:46:36,1,5,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55
+148526,2025-07-17,9:48:59,1,3,Astoria,48,2.5,Tea,Brewed Black tea,English Breakfast Rg,2.5
+148527,2025-07-18,9:51:22,2,8,Hell's Kitchen,51,3,Tea,Brewed Black tea,Earl Grey Lg,6
+148528,2025-07-19,9:53:45,1,5,Lower Manhattan,2,18,Coffee beans,House blend Beans,Our Old Time Diner Blend,18
+148529,2025-07-20,9:56:08,1,3,Astoria,41,4.25,Coffee,Barista Espresso,Cappuccino Lg,4.25
+148530,2025-07-21,9:58:31,2,8,Hell's Kitchen,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5.1
+148531,2025-07-22,10:00:54,1,5,Lower Manhattan,75,3.5,Bakery,Pastry,Croissant,3.5
+148532,2025-07-23,10:03:17,1,3,Astoria,76,3.5,Bakery,Biscotti,Chocolate Chip Biscotti,3.5
+148533,2025-07-24,10:05:40,2,8,Hell's Kitchen,87,2.1,Coffee,Barista Espresso,Ouro Brasileiro shot,4.2
+148534,2025-07-25,10:08:03,1,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot,3
+148535,2025-07-26,10:10:26,1,3,Astoria,45,3,Tea,Brewed herbal tea,Peppermint Lg,3
+148536,2025-07-27,10:12:49,2,8,Hell's Kitchen,43,3,Tea,Brewed herbal tea,Lemon Grass Lg,6
+148537,2025-07-28,10:15:12,1,5,Lower Manhattan,33,3.5,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5
+148538,2025-07-29,10:17:35,1,3,Astoria,74,3.5,Bakery,Biscotti,Ginger Biscotti,3.5
+148539,2025-07-30,10:19:58,2,8,Hell's Kitchen,54,2.5,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,5
+148540,2025-07-31,10:22:21,1,5,Lower Manhattan,71,3.75,Bakery,Pastry,Chocolate Croissant,3.75
+148541,2025-07-01,10:24:44,1,3,Astoria,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45
+148542,2025-07-02,10:27:07,2,8,Hell's Kitchen,78,4.5,Bakery,Scone,Scottish Cream Scone,9
+148543,2025-07-03,10:29:30,1,5,Lower Manhattan,23,2.5,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5
+148544,2025-07-04,10:31:53,1,3,Astoria,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4
+148545,2025-07-05,10:34:16,2,8,Hell's Kitchen,31,2.2,Coffee,Gourmet brewed coffee,Ethiopia Sm,4.4
+148546,2025-07-06,10:36:39,1,5,Lower Manhattan,54,2.5,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5
+148547,2025-07-07,10:39:02,1,3,Astoria,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5
+148548,2025-07-08,10:41:25,2,8,Hell's Kitchen,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5.1
+148549,2025-07-09,10:43:48,1,5,Lower Manhattan,71,3.75,Bakery,Pastry,Chocolate Croissant,3.75
+148550,2025-07-10,10:46:11,1,3,Astoria,44,2.5,Tea,Brewed herbal tea,Peppermint Rg,2.5
+148551,2025-07-11,10:48:34,2,8,Hell's Kitchen,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg,6
+148552,2025-07-12,10:50:57,1,5,Lower Manhattan,42,2.5,Tea,Brewed herbal tea,Lemon Grass Rg,2.5
+148553,2025-07-13,10:53:20,1,3,Astoria,63,0.8,Flavours,Regular syrup,Carmel syrup,0.8
+148554,2025-07-14,10:55:43,2,8,Hell's Kitchen,37,3,Coffee,Barista Espresso,Espresso shot,6
+148555,2025-07-15,10:58:06,1,5,Lower Manhattan,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3
+148556,2025-07-16,11:00:29,1,3,Astoria,30,3,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3
+148557,2025-07-17,11:02:52,2,8,Hell's Kitchen,84,0.8,Flavours,Regular syrup,Chocolate syrup,1.6
+148558,2025-07-18,11:05:15,1,5,Lower Manhattan,29,2.5,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5
+148559,2025-07-19,11:07:38,1,3,Astoria,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot,3
+148560,2025-07-20,11:10:01,2,8,Hell's Kitchen,70,3.25,Bakery,Scone,Cranberry Scone,6.5
+148561,2025-07-21,11:12:24,1,5,Lower Manhattan,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75
+148562,2025-07-22,11:14:47,1,3,Astoria,72,3.25,Bakery,Scone,Ginger Scone,3.25
+148563,2025-07-23,11:17:10,2,8,Hell's Kitchen,29,2.5,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,5
+148564,2025-07-24,11:19:33,1,5,Lower Manhattan,20,7.6,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,7.6
+148565,2025-07-25,11:21:56,1,3,Astoria,37,3,Coffee,Barista Espresso,Espresso shot,3
+148566,2025-07-26,11:24:19,2,8,Hell's Kitchen,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5.1
+148567,2025-07-27,11:26:42,1,5,Lower Manhattan,48,2.5,Tea,Brewed Black tea,English Breakfast Rg,2.5
+148568,2025-07-28,11:29:05,1,3,Astoria,51,3,Tea,Brewed Black tea,Earl Grey Lg,3
+148569,2025-07-29,11:31:28,2,8,Hell's Kitchen,2,18,Coffee beans,House blend Beans,Our Old Time Diner Blend,36
